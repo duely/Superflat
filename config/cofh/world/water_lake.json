@@ -1,0 +1,22 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+		"lake_water": {
+			"generator": {
+				"type": "lake",
+				"block": {"name": "water"},
+                "total-outline": true
+				},
+			"distribution": "cave",
+            "ground-level": 23,
+			"cluster-count": 8,
+			"chunk-chance": 0.0005,
+            "in-village": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [-1, 1]
+				}
+	    }
+    }	
+}

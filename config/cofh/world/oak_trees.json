@@ -1,0 +1,24 @@
+{
+	"priority": 1000000000000,
+	"populate": {
+		"oak_trees": {
+			"generator": {
+				"type": "small-tree",
+				"surface": {"name":"grass"},
+				"block": {"name": "log"},
+				"leaves": {"name": "leaves"}
+				},
+			"distribution": "uniform",
+			"cluster-count": 15,
+			"chunk-chance": 0.0000005,
+			"min-height": 20,
+			"max-height": 40,
+			"retrogen": false,
+			"biome": "all",
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [-1, 1]
+				}
+	    }
+    }	
+}
