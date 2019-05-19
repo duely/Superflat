@@ -136,6 +136,14 @@
       directions: down
       matchers: [ "stone", "grass", "gravel", "dirt", "stone:5" ]
     }
+    {
+      states: air
+      chance: 1
+      maxHeight: 20
+      directions: down
+      matchers: [ "lava", "flowing_lava" ]
+      preference: replace_match
+    }
   ]
    # Some hanging features.
   largeStalactites: [
