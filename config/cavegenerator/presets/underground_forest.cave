@@ -74,6 +74,15 @@
   } 
    # Imitates standard lava placement, 2 blocks lower.
   caveBlocks: [
+    {
+      states: air
+      chance: 1
+      maxHeight: 21
+      directions: down
+      matchers: [ "lava", "flowing_lava", "air", "water", "flowing_water" ]
+      preference: replace_match
+    }
+
   ]
    # A variety of blocks on the ground and ceiling.
   wallDecorators: [
@@ -113,6 +122,14 @@
      preference: replace_match
     }
     {
+     states: stone
+     chance: 1
+     maxHeight: 22
+     matches: [ "air", "lava", "water", "flowing_lava", "flowing_water" ]
+     directions: down
+     preference: replace_match
+    }
+    {
       states: "dirt:2" # podzol
       chance: 0.02
       minHeight: 9
@@ -135,14 +152,6 @@
       minHeight: 9
       directions: down
       matchers: [ "stone", "grass", "gravel", "dirt", "stone:5" ]
-    }
-    {
-      states: air
-      chance: 1
-      maxHeight: 20
-      directions: down
-      matchers: [ "lava", "flowing_lava" ]
-      preference: replace_match
     }
   ]
    # Some hanging features.

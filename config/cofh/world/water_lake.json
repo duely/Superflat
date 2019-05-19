@@ -8,9 +8,9 @@
                 "total-outline": true
 				},
 			"distribution": "cave",
-            "ground-level": 23,
-			"cluster-count": 8,
-			"chunk-chance": 0.0005,
+            "ground-level": 25,
+			"cluster-count": 1,
+			"chunk-chance": 20,
             "in-village": false,
 			"biome": "all",
 			"dimension": {
