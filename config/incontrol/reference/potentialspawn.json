@@ -1,0 +1,181 @@
+[
+  {
+	"dimension": 0,
+	"block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium"],
+    "result": "allow",
+    "passive": true,	
+    "isnotcolliding": true,		
+    "minlight": 5,
+    "maxlight": 15,
+    "mobs": [
+      {
+        "mob": "mowziesmobs:lantern",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      },
+      {
+        "mob": "quark:stoneling",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 5
+      },
+      {
+        "mob": "mysticalworld:entity_beetle",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      },
+      {
+        "mob": "mysticalworld:entity_deer",
+        "weight": 4,
+        "groupcountmin": 2,
+        "groupcountmax": 4
+      },
+      {
+        "mob": "mysticalworld:entity_frog",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      },
+      {
+        "mob": "mysticalworld:entity_fox",
+        "weight": 5,
+        "groupcountmin": 2,
+        "groupcountmax": 6
+      },
+      {
+        "mob": "minecraft:wolf",
+        "weight": 2,
+        "groupcountmin": 3,
+        "groupcountmax": 5
+      },
+      {
+        "mob": "minecraft:rabbit",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 4
+      },
+      {
+        "mob": "minecraft:sheep",
+        "weight": 8,
+        "groupcountmin": 3,
+        "groupcountmax": 8
+      },
+      {
+        "mob": "minecraft:mooshroom",
+        "weight": 1,
+        "groupcountmin": 3,
+        "groupcountmax": 5
+      },
+      {
+        "mob": "minecraft:mule",
+        "weight": 4,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      },
+      {
+        "mob": "minecraft:ocelot",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      },
+      {
+        "mob": "minecraft:parrot",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      },
+      {
+        "mob": "minecraft:pig",
+        "weight": 8,
+        "groupcountmin": 3,
+        "groupcountmax": 6
+      },
+      {
+        "mob": "minecraft:llama",
+        "weight": 6,
+        "groupcountmin": 3,
+        "groupcountmax": 7
+      },
+      {
+        "mob": "minecraft:horse",
+        "weight": 6,
+        "groupcountmin": 3,
+        "groupcountmax": 5
+      },
+      {
+        "mob": "minecraft:donkey",
+        "weight": 4,
+        "groupcountmin": 2,
+        "groupcountmax": 5
+      },
+      {
+        "mob": "minecraft:chicken",
+        "weight": 6,
+        "groupcountmin": 3,
+        "groupcountmax": 8
+      },
+      {
+        "mob": "minecraft:cow",
+        "weight": 6,
+        "groupcountmin": 3,
+        "groupcountmax": 8
+      },
+      {
+        "mob": "minecraft:bat",
+        "weight": 5,
+        "groupcountmin": 2,
+        "groupcountmax": 4
+      },
+      {
+        "mob": "eyesinthedarkness:eyes",
+        "weight": 8,
+        "groupcountmin": 4,
+        "groupcountmax": 15
+      },
+      {
+        "mob": "primitivemobs:dodo",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      },
+      {
+        "mob": "primitivemobs:filch_lizard",
+        "weight": 3,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      },
+      {
+        "mob": "primitivemobs:grovesprite",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      },
+      {
+        "mob": "primitivemobs:lost_miner",
+        "weight": 2,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      },
+      {
+        "mob": "primitivemobs:traveling_merchant",
+        "weight": 1,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+	"dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,		
+    "minlight": 9,
+    "maxlight": 15,
+    "mobs": [
+      {
+      }
+    ]
+  }
+]

@@ -1,0 +1,1328 @@
+[
+  {
+    "dimension": 0,
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.1,
+    "mobs": [
+      {
+        "mob": "mowziesmobs:lantern",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:stone"],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.18,
+    "mobs": [
+      {
+        "mob": "quark:stoneling",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 5
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.23,
+    "mobs": [
+      {
+        "mob": "mysticalworld:entity_beetle",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.2,
+    "mobs": [
+      {
+        "mob": "mysticalworld:entity_deer",
+        "weight": 10,
+        "groupcountmin": 2,
+        "groupcountmax": 4
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.2,
+    "mobs": [
+      {
+        "mob": "mysticalworld:entity_frog",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.4,
+    "mobs": [
+      {
+        "mob": "mysticalworld:entity_fox",
+        "weight": 10,
+        "groupcountmin": 2,
+        "groupcountmax": 6
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.1,
+    "mobs": [
+      {
+        "mob": "minecraft:wolf",
+        "weight": 10,
+        "groupcountmin": 3,
+        "groupcountmax": 5
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.08,
+    "mobs": [
+      {
+        "mob": "minecraft:rabbit",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 4
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.8,
+    "mobs": [
+      {
+        "mob": "minecraft:sheep",
+        "weight": 10,
+        "groupcountmin": 3,
+        "groupcountmax": 8
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.05,
+    "mobs": [
+      {
+        "mob": "minecraft:mooshroom",
+        "weight": 10,
+        "groupcountmin": 3,
+        "groupcountmax": 5
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.09,
+    "mobs": [
+      {
+        "mob": "minecraft:mule",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.03,
+    "mobs": [
+      {
+        "mob": "minecraft:ocelot",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.03,
+    "mobs": [
+      {
+        "mob": "minecraft:parrot",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.7,
+    "mobs": [
+      {
+        "mob": "minecraft:pig",
+        "weight": 10,
+        "groupcountmin": 3,
+        "groupcountmax": 6
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.4,
+    "mobs": [
+      {
+        "mob": "minecraft:llama",
+        "weight": 10,
+        "groupcountmin": 3,
+        "groupcountmax": 7
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.02,
+    "mobs": [
+      {
+        "mob": "minecraft:horse",
+        "weight": 10,
+        "groupcountmin": 3,
+        "groupcountmax": 5
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.25,
+    "mobs": [
+      {
+        "mob": "minecraft:donkey",
+        "weight": 10,
+        "groupcountmin": 2,
+        "groupcountmax": 5
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.8,
+    "mobs": [
+      {
+        "mob": "minecraft:chicken",
+        "weight": 10,
+        "groupcountmin": 3,
+        "groupcountmax": 8
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.8,
+    "mobs": [
+      {
+        "mob": "minecraft:cow",
+        "weight": 10,
+        "groupcountmin": 3,
+        "groupcountmax": 8
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 1,
+    "mobs": [
+      {
+        "mob": "minecraft:bat",
+        "weight": 10,
+        "groupcountmin": 2,
+        "groupcountmax": 4
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.2,
+    "mobs": [
+      {
+        "mob": "eyesinthedarkness:eyes",
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:mycelium" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.06,
+    "mobs": [
+      {
+        "mob": "primitivemobs:dodo",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:sand"],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 1,
+    "mobs": [
+      {
+        "mob": "primitivemobs:filch_lizard",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 3
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.2,
+    "mobs": [
+      {
+        "mob": "primitivemobs:grovesprite",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.01,
+    "mobs": [
+      {
+        "mob": "primitivemobs:lost_miner",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": ["minecraft:grass", "minecraft:dirt", "minecraft:mycelium", "minecraft:grass_path" ],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "random": 0.01,
+    "mobs": [
+      {
+        "mob": "primitivemobs:traveling_merchant",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  }, 
+  {
+    "dimension": 0,
+    "block": ["minecraft:water"],
+    "result": "allow",
+    "passive": true,
+    "isnotcolliding": true,
+    "minlight": 9,
+    "maxlight": 15,
+    "minheight": 1,
+    "maxheight": 255,
+    "mobs": [
+      {
+        "mob": "minecraft:squid",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  }, 
+
+
+
+
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.05,
+    "mobs": [
+      {
+        "mob": "evilcraft:poisonous_libelle",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.01,
+    "mobs": [
+      {
+        "mob": "minecraft:cave_spider",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.35,
+    "mobs": [
+      {
+        "mob": "minecraft:creeper",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.1,
+    "mobs": [
+      {
+        "mob": "minecraft:enderman",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.1,
+    "mobs": [
+      {
+        "mob": "minecraft:husk",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.02,
+    "mobs": [
+      {
+        "mob": "minecraft:illusion_illager",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.01,
+    "mobs": [
+      {
+        "mob": "minecraft:polar_bear",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.6, 
+    "mobs": [
+      {
+        "mob": "minecraft:skeleton",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.4,
+    "mobs": [
+      {
+        "mob": "minecraft:slime",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.8,
+    "mobs": [
+      {
+        "mob": "minecraft:spider",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.1,
+    "mobs": [
+      {
+        "mob": "minecraft:stray",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.014,
+    "mobs": [
+      {
+        "mob": "minecraft:vex",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.01,
+    "mobs": [
+      {
+        "mob": "minecraft:vindication_illager",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.15,
+    "mobs": [
+      {
+        "mob": "minecraft:witch",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.8,
+    "mobs": [
+      {
+        "mob": "minecraft:zombie",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.2,
+    "mobs": [
+      {
+        "mob": "minecraft:zombie_villager",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.6,
+    "mobs": [
+      {
+        "mob": "mowziesmobs:barakoaya",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  }, 
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.6,
+    "mobs": [
+      {
+        "mob": "mowziesmobs:barakoana",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.6,
+    "mobs": [
+      {
+        "mob": "mowziesmobs:barakoa",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.03,
+    "mobs": [
+      {
+        "mob": "mowziesmobs:foliaath",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.08,
+    "mobs": [
+      {
+        "mob": "mowziesmobs:frostmaw",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.1,    
+    "mobs": [
+      {
+        "mob": "mowziesmobs:grottol",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.02,
+    "mobs": [
+      {
+        "mob": "mowziesmobs:naga",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.05,
+    "mobs": [
+      {
+        "mob": "quark:ashen",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.05,
+    "mobs": [
+      {
+        "mob": "quark:dweller",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 40,
+    "maxheight": 255,
+    "random": 0.24,
+    "mobs": [
+      {
+        "mob": "stoneworm:stoneworm",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.02,
+    "mobs": [
+      {
+        "mob": "primitivemobs:bewitched_tome",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.02,
+    "mobs": [
+      {
+        "mob": "primitivemobs:brain_slime",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.01,
+    "mobs": [
+      {
+        "mob": "primitivemobs:festive_creeper",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "block": "minecraft:lava",
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.5,
+    "mobs": [
+      {
+        "mob": "primitivemobs:flame_spewer",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.01,
+    "mobs": [
+      {
+        "mob": "primitivemobs:goblin",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.03,
+    "mobs": [
+      {
+        "mob": "primitivemobs:harpy",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.01,
+    "mobs": [
+      {
+        "mob": "primitivemobs:haunted_tool",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "block": "minecraft:water",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.6,
+    "mobs": [
+      {
+        "mob": "primitivemobs:lily_lurker",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.02,
+    "mobs": [
+      {
+        "mob": "primitivemobs:mother_spider",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.01,
+    "mobs": [
+      {
+        "mob": "primitivemobs:rocket_creeper",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.009,
+    "mobs": [
+      {
+        "mob": "primitivemobs:skeleton_warrior",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.01,
+    "mobs": [
+      {
+        "mob": "primitivemobs:support_creeper",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.02,
+    "mobs": [
+      {
+        "mob": "primitivemobs:treasure_slime",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.02,
+    "mobs": [
+      {
+        "mob": "primitivemobs:trollager",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "result": "allow",
+    "passive": false,
+    "isnotcolliding": true,
+    "minlight": 0,
+    "maxlight": 9,
+    "minheight": 0,
+    "maxheight": 255,
+    "random": 0.05,
+    "mobs": [
+      {
+        "mob": "primitivemobs:void_eye",
+        "weight": 10,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  }
+]
+
