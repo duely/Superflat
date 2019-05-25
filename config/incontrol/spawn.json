@@ -337,7 +337,7 @@
   },
   {
     "mob": "primitivemobs:grovesprite",
-    "mincount": "10",
+    "mincount": "2",
     "result": "deny"
   },
   {
