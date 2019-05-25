@@ -1,5 +1,5 @@
 {
-	"priority": 1000000000000,
+	"priority": 1000000000000000000,
 	"populate": {
 		"not_geodes": {
 			"generator": {
@@ -10,7 +10,7 @@
 			"distribution": "cave",
             "ground-level": 25,
 			"cluster-count": 1,
-			"chunk-chance": 20,
+			"chunk-chance": 50,
             "in-village": false,
 			"biome": "all",
 			"dimension": {

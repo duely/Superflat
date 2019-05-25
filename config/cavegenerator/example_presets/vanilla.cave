@@ -290,7 +290,7 @@
      }
      */
   ]
-   # Single, crcular spaces found near the center of cave 
+   # Single, circular spaces found near the center of cave 
    # systems.
   rooms: {
      # The radius in blocks.
@@ -381,7 +381,7 @@
   ravines: {
     chance: 0.02
     minHeight: 20
-    maxHeight: 40
+    maxHeight: 66
     distance: 0
     twistXZ: {
       startVal: 0
