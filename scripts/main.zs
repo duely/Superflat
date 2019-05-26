@@ -31,8 +31,8 @@ var shears = <minecraft:shears>.anyDamage().or(<vanillatools:tool.shears_stone>.
 
 var shovels = <minecraft:iron_shovel>.anyDamage().or(<minecraft:wooden_shovel>.anyDamage()).or(<minecraft:stone_shovel>.anyDamage()).or(<minecraft:diamond_shovel>.anyDamage()).or(<minecraft:golden_shovel>.anyDamage()).or(<cyclicmagic:emerald_spade>.anyDamage()).or(<cyclicmagic:crystal_spade>.anyDamage()).or(<cyclicmagic:netherbrick_spade>.anyDamage()).or(<cyclicmagic:sandstone_spade>.anyDamage()).or(<naturesaura:infused_iron_shovel>.anyDamage()).or(<roots:living_shovel>.anyDamage()).or(<twilightforest:ironwood_shovel>.anyDamage()).or(<twilightforest:steeleaf_shovel>.anyDamage());
 
-recipes.addShapeless(<minecraft:gravel>, [<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>, <minecraft:flint>.giveBack()]);
-recipes.addShapeless(<minecraft:sand>, [<ore:gravel>, <ore:gravel>, <ore:gravel>, <minecraft:flint>.giveBack()]);
+recipes.addShapeless(<minecraft:gravel>, [<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>, <minecraft:flint>.reuse()]);
+recipes.addShapeless(<minecraft:sand>, [<ore:gravel>, <ore:gravel>, <ore:gravel>, <minecraft:flint>.reuse()]);
 
 recipes.addShapeless(<minecraft:flint>, [<minecraft:gravel>, shovels.transformDamage(1)]);
 
