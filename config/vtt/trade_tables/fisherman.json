@@ -5,16 +5,10 @@
 	Offers:{
 		Recipes:[
 
-            {action:"add", buy:{id:"combustfish:searing_swordfish", Count:{min:1,max:1}},sell:{id:"minecraft:emerald", Count:{min:1,max:2}}, CareerLevel:1},
-            {action:"add", buy:{id:"combustfish:combustive_cod", Count:{min:16,max:23}},sell:{id:"minecraft:emerald", Count:{min:1,max:1}}, CareerLevel:1, chance: 0.5},
-            {action:"add", buy:{id:"combustfish:cooled_cod", Count:{min:16,max:23}},sell:{id:"minecraft:emerald", Count:{min:1,max:1}}, CareerLevel:1, chance: 0.5},
-           
-
 			{action:"remove", buy:{id:"minecraft:emerald"},sell:{id:"minecraft:bow"}, CareerLevel:2},
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"minecraft:fishing_rod",Count:1}, CareerLevel:2},
 
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:2,max:3}},sell:{id:"combustfish:golden_rod",Count:1}, CareerLevel:2},
-
-			{action:"add", buy:{id:"minecraft:emerald",Count:{min:7,max:8}},sell:{id:"combustfish:golden_rod",Count:1,tag:{ench:"random"}}, CareerLevel:3}
+			{action:"add", buy:{id:"minecraft:emerald",Count:{min:7,max:8}},sell:{id:"minecraft:fishing_rod",Count:1,tag:{ench:"random"}}, CareerLevel:3}
 
 		]
 	}

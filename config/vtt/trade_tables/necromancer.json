@@ -4,8 +4,7 @@
 
 	Offers:{
 		Recipes:[
-
-            {action:"add", buy:{id:"combustfish:bone_fish", Count:{min:16,max:23}},sell:{id:"minecraft:emerald", Count:{min:1,max:1}}, CareerLevel:1, chance: 0.6},                   
+		
 			{
 				action: "add",
 				CareerLevel: 1,
