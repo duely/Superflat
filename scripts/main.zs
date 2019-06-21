@@ -1,22 +1,17 @@
-import crafttweaker.enchantments.IEnchantmentDefinition;
-import crafttweaker.data.IData;
+import mods.dropt.Dropt;
 
 // better leads
 recipes.addShaped("extra_lead", <minecraft:lead>*2, [[<ore:string>, <ore:string>, null], [<ore:string>, <minecraft:clay_ball>, null], [null, null, <ore:string>]]);
 
-// wool
-var shears = <minecraft:shears>.anyDamage();
 
-recipes.addShapeless(<minecraft:string>*1, [<ore:blockWool>, shears.transformDamage(1)]);
+recipes.remove(<consecration:fire_stick>);
+recipes.addShaped("consecration_fire_stick", <consecration:fire_stick>, [[<ore:stickWood>, <pyrotech:material:21>], [<ore:stickWood>, <pyrotech:material:21>]]);
 
-recipes.removeByRecipeName("ropebridge:string");
+recipes.remove(<openglider:hang_glider_part>);
+recipes.addShaped("openglider_hang_glider_part", <openglider:hang_glider_part>, [[<ore:stickWood>, <ore:leather>], [<ore:leather>, <ore:leather>]]);
 
-recipes.addShapeless(<minecraft:flint>, [<minecraft:gravel>, <minecraft:gravel>, <minecraft:gravel>]);
+recipes.remove(<openglider:hang_glider_part:1>);
+recipes.addShaped("openglider_hang_glider_part2", <openglider:hang_glider_part:1>, [[<ore:leather>, <ore:stickWood>], [<ore:leather>, <ore:leather>]]);
 
-recipes.addShapeless(<minecraft:slime_ball>, [<minecraft:egg>, <minecraft:egg>, <minecraft:egg>, <minecraft:egg>, <minecraft:egg>, <minecraft:egg>, <minecraft:egg>, <minecraft:egg>, <minecraft:egg>]);
-
-recipes.remove(<minecraft:enchanting_table>);
-
-recipes.addShaped(<minecraft:enchanting_table>, [[null, <minecraft:book>, null], [<minecraft:emerald>, <minecraft:stonebrick>, <minecraft:emerald>], [<minecraft:stonebrick>, <minecraft:stonebrick>, <minecraft:stonebrick>]]);
-
-recipes.addShapeless(<minecraft:magma_cream>*4, [<minecraft:magma>]);
+recipes.remove(<openglider:hang_glider_basic>);
+recipes.addShaped("openglider_hang_glider", <openglider:hang_glider_basic>, [[null, <openglider:hang_glider_part:1>], [<openglider:hang_glider_part>, <pyrotech:material:14>]]);

@@ -29,6 +29,24 @@
       "minecraft:wool:14",
       "minecraft:wool:15"
     ],
+    "cobblestone": [
+      "pyrotech:cobblestone:0",
+      "pyrotech:cobblestone:1",
+      "pyrotech:cobblestone:2",
+      "pyrotech:cobblestone:3"
+    ],
+    "cobblestoneAndesite": [
+      "pyrotech:cobblestone:0"
+    ],
+    "cobblestoneDiorite": [
+      "pyrotech:cobblestone:1"
+    ],
+    "cobblestoneGranite": [
+      "pyrotech:cobblestone:2"
+    ],
+    "cobblestoneLimestone": [
+      "pyrotech:cobblestone:3"
+    ],
     "dustFlint": [
       "pyrotech:material:31"
     ],
@@ -58,6 +76,9 @@
     ],
     "stickStone": [
       "pyrotech:material:27"
+    ],
+    "stoneLimestone": [
+      "pyrotech:limestone"
     ],
     "twine": [
       "minecraft:string",

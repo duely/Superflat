@@ -1,73 +1,497 @@
-[
-  {
-    "content": "minecraft:gold_nugget",
-    "unitWorth": 100,
-    "weight": 100
-  },
-  {
-    "content": "minecraft:gold_ingot",
-    "unitWorth": 900,
-    "weight": 100
-  },
-  {
-    "content": "minecraft:diamond",
-    "unitWorth": 2400,
-    "weight": 10
-  },
-  {
-    "content": "minecraft:iron_sword",
-    "unitWorth": 750,
-    "weight": 5,
-    "nbt_data": "{display:{Lore:[\"Sharper than Usual.\"]},ench:[{id:16,lvl:1}]}",
-    "amount": {
-      "min": 1,
-      "max": 1
-    }
-  },
-  {
-    "content": "minecraft:leather_helmet",
-    "unitWorth": 500,
-    "weight": 5,
-    "amount": {
-      "min": 1,
-      "max": 1
-    }
-  },
-  {
-    "content": "minecraft:leather_boots",
-    "unitWorth": 450,
-    "weight": 5,
-    "amount": {
-      "min": 1,
-      "max": 1
-    }
-  },
-  {
-    "content": "minecraft:iron_chestplate",
-    "unitWorth": 1800,
-    "weight": 5,
-    "amount": {
-      "min": 1,
-      "max": 1
-    }
-  },
-  {
-    "content": "minecraft:golden_chestplate",
-    "unitWorth": 1200,
-    "weight": 5,
-    "amount": {
-      "min": 1,
-      "max": 1
-    }
-  },
-  {
-    "content": "minecraft:bow",
-    "unitWorth": 1300,
-    "weight": 10,
-    "nbt_data": "{ench:[{id:48,lvl:2}]}",
-    "amount": {
-      "min": 1,
-      "max": 1
-    }
-  }
-]
+[{
+	"content": "pyrotech:flint_and_tinder",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 150,
+	"weight": 40
+}, {
+	"content": "pyrotech:crude_axe",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 100,
+	"weight": 40
+}, {
+	"content": "pyrotech:crude_hoe",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 100,
+	"weight": 40
+}, {
+	"content": "pyrotech:crude_pickaxe",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 100,
+	"weight": 40
+}, {
+	"content": "pyrotech:crude_shovel",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 100,
+	"weight": 40
+}, {
+	"content": "pyrotech:crude_fishing_rod",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 100,
+	"weight": 40
+}, {
+	"content": "pyrotech:crude_hammer",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 150,
+	"weight": 40
+}, {
+	"content": "consecration:fire_stick",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 150,
+	"weight": 40
+}, {
+	"content": "culinaryconstruct:sandwich_station",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 400,
+	"weight": 40
+}, {
+	"content": "mowziesmobs:barakoa_mask_bliss",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 450,
+	"weight": 30
+}, {
+	"content": "mowziesmobs:barakoa_mask_misery",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 450,
+	"weight": 30
+}, {
+	"content": "quark:pirate_hat",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 450,
+	"weight": 30
+}, {
+	"content": "quark:witch_hat",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 450,
+	"weight": 30
+}, {
+	"content": "minecraft:leather_helmet",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 80,
+	"weight": 50
+}, {
+	"content": "pyrotech:torch_fiber",
+	"unitWorth": 40,
+	"weight": 40
+}, {
+	"content": "consecration:fire_bomb",
+	"unitWorth": 90,
+	"weight": 30
+}, {
+	"content": "mowziesmobs:barakoa_mask_fury",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 450,
+	"weight": 30
+}, {
+	"content": "mowziesmobs:barakoa_mask_fear",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 450,
+	"weight": 30
+}, {
+	"content": "mowziesmobs:barakoa_mask_rage",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 450,
+	"weight": 30
+}, {
+	"content": "openglider:hang_glider_basic",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 450,
+	"weight": 30
+}, {
+	"content": "minecraft:leather_boots",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 90,
+	"weight": 30
+}, {
+	"content": "pyrotech:tinder",
+	"unitWorth": 50,
+	"weight": 30
+}, {
+	"content": "dwmh:whistle",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 450,
+	"weight": 30
+}, {
+	"content": "minecraft:shield",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 100,
+	"weight": 30
+}, {
+	"content": "minecraft:leather_chestplate",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 90,
+	"weight": 30
+}, {
+	"content": "pyrotech:clay_shears",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 120,
+	"weight": 30
+}, {
+	"content": "pyrotech:bone_sword",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 190,
+	"weight": 30
+}, {
+	"content": "pyrotech:crate",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 900,
+	"weight": 50
+}, {
+	"content": "pyrotech:bag_simple",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 1200,
+	"weight": 50
+}, {
+	"content": "pyrotech:stash",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 950,
+	"weight": 50
+}, {
+	"content": "pyrotech:drying_rack:1",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 950,
+	"weight": 50
+}, {
+	"content": "minecraft:leather_leggings",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 90,
+	"weight": 30
+}, {
+	"content": "pyrotech:flint_sword",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 350,
+	"weight": 30
+}, {
+	"content": "mysticalworld:copper_knife",
+	"amount": {
+		"max": 1,
+		"min": 1
+	},
+	"unitWorth": 450,
+	"weight": 30
+}, {
+	"content": "pyrotech:material:13",
+	"unitWorth": 80,
+	"weight": 40
+}, {
+	"content": "pyrotech:material:14",
+	"unitWorth": 160,
+	"weight": 40
+}, {
+	"content": "pyrotech:material:10",
+	"unitWorth": 60,
+	"weight": 25
+}, {
+	"content": "pyrotech:material:11",
+	"unitWorth": 60,
+	"weight": 25
+}, {
+	"content": "pyrotech:material:21",
+	"unitWorth": 115,
+	"weight": 40
+}, {
+	"content": "pyrotech:rock",
+	"unitWorth": 25,
+	"weight": 50
+}, {
+	"content": "pyrotech:rock:1",
+	"unitWorth": 25,
+	"weight": 50
+}, {
+	"content": "pyrotech:rock:2",
+	"unitWorth": 25,
+	"weight": 50
+}, {
+	"content": "pyrotech:rock:3",
+	"unitWorth": 25,
+	"weight": 50
+}, {
+	"content": "pyrotech:rock:8",
+	"unitWorth": 25,
+	"weight": 50
+}, {
+	"content": "pyrotech:rock:7",
+	"unitWorth": 25,
+	"weight": 50
+}, {
+	"content": "pyrotech:rock:4",
+	"unitWorth": 25,
+	"weight": 50
+}, {
+	"content": "pyrotech:rock:5",
+	"unitWorth": 25,
+	"weight": 50
+}, {
+	"content": "pyrotech:material",
+	"unitWorth": 40,
+	"weight": 10
+}, {
+	"content": "pyrotech:rock_grass",
+	"unitWorth": 40,
+	"weight": 15
+}, {
+	"content": "pyrotech:rock:9",
+	"unitWorth": 25,
+	"weight": 50
+}, {
+	"content": "minecraft:cooked_porkchop",
+	"unitWorth": 40,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},
+	"weight": 15
+}, {
+	"content": "minecraft:bread",
+	"unitWorth": 25,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "pyrotech:apple_baked",
+	"unitWorth": 30,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "minecraft:rabbit_stew",
+	"unitWorth": 50,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "pyrotech:egg_roasted",
+	"unitWorth": 30,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "pyrotech:carrot_roasted",
+	"unitWorth": 25,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "pyrotech:mushroom_brown_roasted",
+	"unitWorth": 25,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+    },
+	"weight": 15
+}, {
+	"content": "pyrotech:mushroom_red_roasted",
+	"unitWorth": 25,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "minecraft:cooked_fish",
+	"unitWorth": 25,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "minecraft:cooked_beef",
+	"unitWorth": 40,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	}, 
+	"weight": 15
+}, {
+	"content": "exoticbirds:cooked_birdmeat",
+	"unitWorth": 15,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "minecraft:pumpkin_pie",
+	"unitWorth": 40,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "minecraft:potato",
+	"unitWorth": 5,
+	"weight": 15
+}, {
+	"content": "minecraft:cooked_chicken",
+	"unitWorth": 30,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "minecraft:cookie",
+	"unitWorth": 5,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "pyrotech:beetroot_roasted",
+	"unitWorth": 5,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "biomesoplenty:persimmon",
+	"unitWorth": 25,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "betteranimalsplus:pheasantcooked",
+	"unitWorth": 35,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "minecraft:cooked_mutton",
+	"unitWorth": 30,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "minecraft:baked_potato",
+	"unitWorth": 25,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "minecraft:mushroom_stew",
+	"unitWorth": 30,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}, {
+	"content": "minecraft:beetroot_soup",
+	"unitWorth": 30,
+ 	"amount": {
+		"max": 20,
+		"min": 10
+	},    
+	"weight": 15
+}]
