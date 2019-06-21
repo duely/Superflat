@@ -15,3 +15,8 @@ recipes.addShaped("openglider_hang_glider_part2", <openglider:hang_glider_part:1
 
 recipes.remove(<openglider:hang_glider_basic>);
 recipes.addShaped("openglider_hang_glider", <openglider:hang_glider_basic>, [[null, <openglider:hang_glider_part:1>], [<openglider:hang_glider_part>, <pyrotech:material:14>]]);
+
+<ore:cobblestoneGranite>.add(<pyrotech:cobblestone:2>);
+<ore:cobblestoneAndesite>.add(<pyrotech:cobblestone>);
+<ore:cobblestoneDiorite>.add(<pyrotech:cobblestone:1>);
+<ore:cobblestoneLimestone>.add(<pyrotech:cobblestone:3>);
