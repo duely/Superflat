@@ -16,16 +16,5 @@
     "  color:",
     "    - the hex color for the generated content tint"
   ],
-  "list": [
-    {
-      "registryName": "iron",
-      "langKey": "tile.oreIron",
-      "color": "d8af93"
-    },
-    {
-      "registryName": "gold",
-      "langKey": "tile.oreGold",
-      "color": "fcee4b"
-    }
-  ]
+  "list": []
 }
