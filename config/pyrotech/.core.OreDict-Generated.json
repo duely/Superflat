@@ -80,6 +80,16 @@
     "stoneLimestone": [
       "pyrotech:limestone"
     ],
+    "toolAxe": [
+      "minecraft:stone_axe:*",
+      "minecraft:iron_axe:*",
+      "minecraft:golden_axe:*",
+      "minecraft:diamond_axe:*",
+      "pyrotech:crude_axe:*",
+      "pyrotech:flint_axe:*",
+      "pyrotech:bone_axe:*",
+      "pyrotech:obsidian_axe:*"
+    ],
     "twine": [
       "minecraft:string",
       "pyrotech:material:14"
