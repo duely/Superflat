@@ -3852,6 +3852,72 @@
       "installedTargets": null
     },
     {
+      "addonID": 318872,
+      "gameInstanceID": "74c034d4-2ead-428d-a251-b693bd9f50b7",
+      "installedFile": {
+        "id": 2729158,
+        "displayName": "Charm-1.12.2-1.1.13.jar",
+        "fileName": "Charm-1.12.2-1.1.13.jar",
+        "fileDate": "2019-06-24T15:42:31.05Z",
+        "fileLength": 2312045,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2729/158/Charm-1.12.2-1.1.13.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 907430091,
+            "type": 0
+          },
+          {
+            "foldername": "svenhjol",
+            "fingerprint": 1385322684,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3863404610,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1877634062,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 916202162,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "FileNameOnDisk": "Charm-1.12.2-1.1.13.jar"
+      },
+      "dateInstalled": "2019-07-05T23:36:45.365946Z",
+      "dateUpdated": "2019-07-05T23:36:45.3679412Z",
+      "dateLastUpdateAttempted": "2019-07-05T23:36:45.3679412Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 282313,
       "gameInstanceID": "74c034d4-2ead-428d-a251-b693bd9f50b7",
       "installedFile": {
@@ -5305,6 +5371,87 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 220318,
+      "gameInstanceID": "74c034d4-2ead-428d-a251-b693bd9f50b7",
+      "installedFile": {
+        "id": 2715506,
+        "displayName": "BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar",
+        "fileName": "BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar",
+        "fileDate": "2019-05-25T08:04:08.873Z",
+        "fileLength": 4696621,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2715/506/BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3132324580,
+            "type": 0
+          },
+          {
+            "foldername": "biomesoplenty",
+            "fingerprint": 2457451123,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3847610533,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2922892018,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2585792492,
+            "type": 0
+          },
+          {
+            "foldername": "LICENSE.txt",
+            "fingerprint": 2878218662,
+            "type": 0
+          },
+          {
+            "foldername": "version.properties",
+            "fingerprint": 3260203277,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2361565332,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "FileNameOnDisk": "BiomesOPlenty-1.12.2-7.0.1.2441-universal.jar"
+      },
+      "dateInstalled": "2019-07-05T23:36:51.4644216Z",
+      "dateUpdated": "2019-07-05T23:36:51.4674091Z",
+      "dateLastUpdateAttempted": "2019-07-05T23:36:51.4674091Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 299540,
