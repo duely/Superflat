@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-07-05T04:42:50.0623513Z",
+  "lastPlayed": "2019-07-05T23:29:43.6427388Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -44,21 +44,6 @@
   "installPath": "E:\\ftb\\NewRevelations\\Instances\\Lightweight\\",
   "name": "Lightweight",
   "cachedScans": [
-    {
-      "folderName": "Treasure2-mc1.12.2-f14.23.5.2768-v1.3.1.jar",
-      "fingerprint": 2847646553,
-      "fileDateHash": 447420362,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2847646553
-      ],
-      "status": 1,
-      "timestamp": "2019-07-01T02:33:20.7069268Z",
-      "lastWriteTimeUtc": "2019-06-29T01:10:15.4235415Z",
-      "queryTimestamp": "2019-07-05T03:01:31.517725Z",
-      "fileCount": 1,
-      "fileSize": 1459926
-    },
     {
       "folderName": "New World--------",
       "fingerprint": 2778946609,
@@ -295,21 +280,6 @@
       "queryTimestamp": "2019-07-05T04:42:15.7566745Z",
       "fileCount": 1,
       "fileSize": 3130759
-    },
-    {
-      "folderName": "torchly-1.0.0.jar",
-      "fingerprint": 2861522089,
-      "fileDateHash": 2106831474,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2861522089
-      ],
-      "status": 1,
-      "timestamp": "2019-06-27T10:39:01.1966615Z",
-      "lastWriteTimeUtc": "2019-06-21T07:52:08.1588225Z",
-      "queryTimestamp": "2019-07-05T03:01:31.5186951Z",
-      "fileCount": 1,
-      "fileSize": 15512
     },
     {
       "folderName": "CosmeticArmorReworked-1.12.2-v4a.jar",
@@ -2587,7 +2557,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-07-05T04:42:17.3117599Z",
+  "lastPreviousMatchUpdate": "2019-07-05T23:25:06.1836589Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -3199,94 +3169,6 @@
       "dateInstalled": "2019-06-13T07:51:46.1848591Z",
       "dateUpdated": "2019-06-13T07:51:46.1978522Z",
       "dateLastUpdateAttempted": "2019-06-13T07:51:46.1978522Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 289760,
-      "gameInstanceID": "74c034d4-2ead-428d-a251-b693bd9f50b7",
-      "installedFile": {
-        "id": 2732025,
-        "displayName": "Treasure2-mc1.12.2-f14.23.5.2768-v1.3.1.jar",
-        "fileName": "Treasure2-mc1.12.2-f14.23.5.2768-v1.3.1.jar",
-        "fileDate": "2019-06-28T10:44:11.32Z",
-        "fileLength": 1459926,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2732/25/Treasure2-mc1.12.2-f14.23.5.2768-v1.3.1.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 272450,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1505400975,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3803694367,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2979391917,
-            "type": 0
-          },
-          {
-            "foldername": "loot_tables",
-            "fingerprint": 801981937,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3557562854,
-            "type": 0
-          },
-          {
-            "foldername": "treasure2-curseforge-logo.png",
-            "fingerprint": 2881928286,
-            "type": 0
-          },
-          {
-            "foldername": "treasure2-github-logo.png",
-            "fingerprint": 3264531507,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2847646553,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "FileNameOnDisk": "Treasure2-mc1.12.2-f14.23.5.2768-v1.3.1.jar"
-      },
-      "dateInstalled": "2019-06-13T09:09:52.7487193Z",
-      "dateUpdated": "2019-06-29T01:10:15.4255371Z",
-      "dateLastUpdateAttempted": "2019-06-29T01:10:15.4255371Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -4040,27 +3922,27 @@
       "addonID": 237167,
       "gameInstanceID": "74c034d4-2ead-428d-a251-b693bd9f50b7",
       "installedFile": {
-        "id": 2734164,
-        "displayName": "FTBLib-5.4.3.125.jar",
-        "fileName": "FTBLib-5.4.3.125.jar",
-        "fileDate": "2019-07-02T01:03:06.783Z",
-        "fileLength": 915561,
+        "id": 2736027,
+        "displayName": "FTBLib-5.4.3.126.jar",
+        "fileName": "FTBLib-5.4.3.126.jar",
+        "fileDate": "2019-07-05T17:45:55.957Z",
+        "fileLength": 915533,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2734/164/FTBLib-5.4.3.125.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2736/27/FTBLib-5.4.3.126.jar",
         "isAlternate": false,
-        "alternateFileId": 2734165,
+        "alternateFileId": 2736028,
         "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1926955149,
+            "fingerprint": 2875920830,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 1892294981,
+            "fingerprint": 3306421869,
             "type": 0
           },
           {
@@ -4075,11 +3957,11 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1695268105,
+            "fingerprint": 343817199,
             "type": 0
           }
         ],
-        "packageFingerprint": 4139617695,
+        "packageFingerprint": 2134369204,
         "gameVersion": [
           "1.12.2"
         ],
@@ -4091,11 +3973,11 @@
         "projectId": 0,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
-        "FileNameOnDisk": "FTBLib-5.4.3.125.jar"
+        "FileNameOnDisk": "FTBLib-5.4.3.126.jar"
       },
       "dateInstalled": "2019-06-13T07:48:11.6769108Z",
-      "dateUpdated": "2019-07-04T23:15:33.3052905Z",
-      "dateLastUpdateAttempted": "2019-07-04T23:15:33.3052905Z",
+      "dateUpdated": "2019-07-05T23:25:35.4684641Z",
+      "dateLastUpdateAttempted": "2019-07-05T23:25:35.4684641Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -4392,14 +4274,14 @@
       "addonID": 277064,
       "gameInstanceID": "74c034d4-2ead-428d-a251-b693bd9f50b7",
       "installedFile": {
-        "id": 2733111,
-        "displayName": "mysticallib-1.12.2-1.3.0.jar",
-        "fileName": "mysticallib-1.12.2-1.3.0.jar",
-        "fileDate": "2019-06-30T05:58:33.65Z",
-        "fileLength": 334298,
+        "id": 2735893,
+        "displayName": "mysticallib-1.12.2-1.3.1.jar",
+        "fileName": "mysticallib-1.12.2-1.3.1.jar",
+        "fileDate": "2019-07-05T13:32:20.77Z",
+        "fileLength": 335650,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2733/111/mysticallib-1.12.2-1.3.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2735/893/mysticallib-1.12.2-1.3.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -4407,12 +4289,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3361582828,
+            "fingerprint": 2044462099,
             "type": 0
           },
           {
             "foldername": "epicsquid",
-            "fingerprint": 1800702851,
+            "fingerprint": 1779305921,
             "type": 0
           },
           {
@@ -4431,7 +4313,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 1630382350,
+        "packageFingerprint": 2140446313,
         "gameVersion": [
           "1.12.2"
         ],
@@ -4441,14 +4323,14 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
-        "FileNameOnDisk": "mysticallib-1.12.2-1.3.0.jar"
+        "FileNameOnDisk": "mysticallib-1.12.2-1.3.1.jar"
       },
       "dateInstalled": "2019-07-01T04:59:07.7717066Z",
-      "dateUpdated": "2019-07-01T04:59:07.7727041Z",
-      "dateLastUpdateAttempted": "2019-07-01T04:59:07.7727041Z",
-      "status": 5,
+      "dateUpdated": "2019-07-05T23:25:53.2793673Z",
+      "dateLastUpdateAttempted": "2019-07-05T23:25:53.2793673Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -5823,14 +5705,14 @@
       "addonID": 282940,
       "gameInstanceID": "74c034d4-2ead-428d-a251-b693bd9f50b7",
       "installedFile": {
-        "id": 2733112,
-        "displayName": "MysticWorld-1.12.2-1.3.0.jar",
-        "fileName": "MysticWorld-1.12.2-1.3.0.jar",
-        "fileDate": "2019-06-30T05:59:41.573Z",
-        "fileLength": 1065791,
+        "id": 2735892,
+        "displayName": "MysticWorld-1.12.2-1.3.1.jar",
+        "fileName": "MysticWorld-1.12.2-1.3.1.jar",
+        "fileDate": "2019-07-05T13:28:57.84Z",
+        "fileLength": 1071905,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2733/112/MysticWorld-1.12.2-1.3.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2735/892/MysticWorld-1.12.2-1.3.1.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -5845,12 +5727,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 415308960,
+            "fingerprint": 922752104,
             "type": 0
           },
           {
             "foldername": "epicsquid",
-            "fingerprint": 2459970411,
+            "fingerprint": 1782790910,
             "type": 0
           },
           {
@@ -5869,7 +5751,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 1197901348,
+        "packageFingerprint": 536491878,
         "gameVersion": [
           "1.12.2"
         ],
@@ -5879,14 +5761,14 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
-        "FileNameOnDisk": "MysticWorld-1.12.2-1.3.0.jar"
+        "FileNameOnDisk": "MysticWorld-1.12.2-1.3.1.jar"
       },
       "dateInstalled": "2019-07-01T04:59:08.271823Z",
-      "dateUpdated": "2019-07-01T04:59:08.2738074Z",
-      "dateLastUpdateAttempted": "2019-07-01T04:59:08.2738074Z",
-      "status": 5,
+      "dateUpdated": "2019-07-05T23:25:49.6462574Z",
+      "dateLastUpdateAttempted": "2019-07-05T23:25:49.6462574Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8082,7 +7964,7 @@
       "dateInstalled": "2019-07-04T23:17:14.2377143Z",
       "dateUpdated": "2019-07-04T23:17:14.2385916Z",
       "dateLastUpdateAttempted": "2019-07-04T23:17:14.2385916Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9260,14 +9142,14 @@
       "addonID": 227409,
       "gameInstanceID": "74c034d4-2ead-428d-a251-b693bd9f50b7",
       "installedFile": {
-        "id": 2725693,
-        "displayName": "Release 2.3.0 for MC 1.12.2",
-        "fileName": "BetterSprinting-1.12.2-v2.3.0.jar",
-        "fileDate": "2019-06-17T04:42:48.853Z",
-        "fileLength": 79995,
+        "id": 2735977,
+        "displayName": "Release 3.0.0 for MC 1.12.2",
+        "fileName": "BetterSprinting-1.12.2-v3.0.0.jar",
+        "fileDate": "2019-07-05T16:25:34.53Z",
+        "fileLength": 91639,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2725/693/BetterSprinting-1.12.2-v2.3.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2735/977/BetterSprinting-1.12.2-v3.0.0.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -9275,22 +9157,22 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 1704509503,
+            "fingerprint": 1090466694,
             "type": 0
           },
           {
             "foldername": "chylex",
-            "fingerprint": 1050956816,
+            "fingerprint": 3321081501,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 889847062,
+            "fingerprint": 2364904270,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 341773084,
+            "fingerprint": 2722988889,
             "type": 0
           },
           {
@@ -9299,7 +9181,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 365929262,
+        "packageFingerprint": 2520535739,
         "gameVersion": [
           "1.12.2"
         ],
@@ -9309,13 +9191,14 @@
         "restrictProjectFileAccess": 0,
         "projectStatus": 0,
         "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
-        "FileNameOnDisk": "BetterSprinting-1.12.2-v2.3.0.jar"
+        "FileNameOnDisk": "BetterSprinting-1.12.2-v3.0.0.jar"
       },
       "dateInstalled": "2019-06-13T09:06:06.3932068Z",
-      "dateUpdated": "2019-06-18T07:00:45.7923557Z",
-      "dateLastUpdateAttempted": "2019-06-18T07:00:45.7923557Z",
-      "status": 5,
+      "dateUpdated": "2019-07-05T23:26:04.7075476Z",
+      "dateLastUpdateAttempted": "2019-07-05T23:26:04.7075476Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -9457,89 +9340,6 @@
       "dateInstalled": "2019-06-18T07:53:48.9159237Z",
       "dateUpdated": "2019-06-18T07:53:48.916922Z",
       "dateLastUpdateAttempted": "2019-06-18T07:53:48.916922Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 324915,
-      "gameInstanceID": "74c034d4-2ead-428d-a251-b693bd9f50b7",
-      "installedFile": {
-        "id": 2727571,
-        "displayName": "torchly-1.0.0.jar",
-        "fileName": "torchly-1.0.0.jar",
-        "fileDate": "2019-06-21T08:41:41.123Z",
-        "fileLength": 15512,
-        "releaseType": 2,
-        "fileStatus": 3,
-        "downloadUrl": "https://edge.forgecdn.net/files/2727/571/torchly-1.0.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": false,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3279774127,
-            "type": 3
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3590616347,
-            "type": 3
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 4199441864,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2183576310,
-            "type": 3
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2855579864,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 2861522089,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 1,
-        "renderCacheId": 1579337,
-        "projectId": 324915,
-        "packageFingerprintId": 325787286,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameVersionMappingId": 1839128,
-        "gameVersionId": 6756,
-        "gameId": 432,
-        "FileNameOnDisk": "torchly-1.0.0.jar"
-      },
-      "dateInstalled": "2019-06-21T08:51:57.5835859Z",
-      "dateUpdated": "2018-06-21T08:51:57.5835859Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
