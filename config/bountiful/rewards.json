@@ -163,7 +163,7 @@
 	"unitWorth": 50,
 	"weight": 30
 }, {
-	"content": "dwmh:whistle",
+	"content": "dwmh:ocarina",
 	"amount": {
 		"max": 1,
 		"min": 1
